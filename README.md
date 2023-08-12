@@ -1,6 +1,7 @@
 # Stock Alert System
-
-This Python program monitors the stock prices of a specified company and sends SMS alerts using Twilio when the stock price increases by a certain percentage. It also fetches news articles related to the company from NewsAPI.
+## One of my favourite 100daysofcode projects 
+## Created by Ifedayo Akinsira-Olumide
+This Python program monitors the stock prices of a specified company and sends SMS alerts using Twilio when the stock price increasesor reduces by a certain percentage. It also fetches news articles related to the company from NewsAPI.
 
 ## Prerequisites
 
